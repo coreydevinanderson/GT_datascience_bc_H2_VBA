@@ -3,11 +3,15 @@ VBA code for The VBA of Wall Street assignment
 
 This repository contains VBA code and source data for the VBA Homework assignment ("The VBA of Wall Street") for the Georgia Teach Data Science and Analytics Bootcamp
 
-There are currently two files available:
+There are currently four main files available:
 
-1) A .bas file containing the code for the macro: The_VBA_of_Wall_Street.bas
-2) A MS Word document with screen shots of the solutions for each year in the sheet (2014, 2015, & 2016).
+1) The_VBA_of_Wall_Street.bas : basic code for the macro.
+2) 2014_solved.png : screen shot of solved sheet for 2014 data
+3) 2015_solved.png : screen shot of solved sheet for 2015 data
+4) 2015_solved.png: screen shot of solved for 2016 data
 
-All code was written by Corey D. Anderson. The procedure was for iterating for sheets was inspired from an answer on Stackoverflow (by Heather Claxton):
+I have also included a .xlsm files with the source data and macro. The macro can be tested by running it.
+
+All code was written by Corey D. Anderson. The procedure was for iterating over each sheet was inspired from an answer on Stackoverflow (by Heather Claxton):
 
 https://stackoverflow.com/questions/43738802/how-to-apply-vba-code-to-all-worksheets-in-the-workbook
