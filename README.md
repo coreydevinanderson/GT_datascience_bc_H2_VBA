@@ -10,8 +10,6 @@ There are currently four main files available:
 3) 2015_solved.png : screen shot of solved sheet for 2015 data
 4) 2015_solved.png: screen shot of solved for 2016 data
 
-I have also included a .xlsm files with the source data and macro. The macro can be tested by running it.
-
 All code was written by Corey D. Anderson. The procedure for iterating over each sheet was inspired from an answer on Stackoverflow (by Heather Claxton):
 
 https://stackoverflow.com/questions/43738802/how-to-apply-vba-code-to-all-worksheets-in-the-workbook
