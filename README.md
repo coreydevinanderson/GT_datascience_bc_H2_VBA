@@ -1,7 +1,6 @@
-# VBA-Challenge
-VBA code for The VBA of Wall Street assignment
+Analysis of Wall Street financial data with Visual Basic in MS Excel.
 
-This repository contains VBA code and source data for the VBA Homework assignment ("The VBA of Wall Street") for the Georgia Teach Data Science and Analytics Bootcamp
+---
 
 There are currently four main files available:
 
@@ -9,6 +8,8 @@ There are currently four main files available:
 2) 2014_solved.png : screen shot of solved sheet for 2014 data
 3) 2015_solved.png : screen shot of solved sheet for 2015 data
 4) 2015_solved.png: screen shot of solved for 2016 data
+
+----
 
 All code was written by Corey D. Anderson. The procedure for iterating over each sheet was inspired from an answer on Stackoverflow (by Heather Claxton):
 
