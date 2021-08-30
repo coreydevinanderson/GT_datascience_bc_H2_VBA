@@ -1,4 +1,4 @@
-Analysis of Wall Street financial data with Visual Basic in MS Excel.
+Analysis of Wall Street stock data with Visual Basic in MS Excel.
 
 ---
 
